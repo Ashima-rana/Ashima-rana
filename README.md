@@ -5,12 +5,14 @@
 
 - 📫 How to reach me **ashimarana1911@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1idQL9FJghIbBclS95_FhE277CRM6NWh1/view?usp=drivesdk](https://drive.google.com/file/d/1idQL9FJghIbBclS95_FhE277CRM6NWh1/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1idQL9FJghIbBclS95_FhE277CRM6NWh1/view?usp=drivesdk](https://drive.google.com/drive/folders/1MpfoHMk8EE5A2CDGMY7QFvbB1uaSkqDP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashima-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashima-rana" height="30" width="40" /></a>
 <a href="https://instagram.com/ashimarana29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashimarana29" height="30" width="40" /></a>
+<a href="https://github.com/Ashima-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ashima-rana" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
