@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ashimarana1911@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1idQL9FJghIbBclS95_FhE277CRM6NWh1/view?usp=drivesdk](https://drive.google.com/drive/folders/1SRcnu-XD_o_FzsqBdxzzG-tEdD5Jeupv)
+- 📄 Know about my experiences [(https://drive.google.com/drive/folders/1SRcnu-XD_o_FzsqBdxzzG-tEdD5Jeupv)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
